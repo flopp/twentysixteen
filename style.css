@@ -3977,3 +3977,28 @@ p > video {
 		padding: 0;
 	}
 }
+
+table.infotab {
+    border: none;
+    vertical-align: top;
+    table-layout: auto;
+}
+
+table.infotab tr {
+    border: none;
+    vertical-align: top;
+}
+
+table.infotab tr th {
+    border: none;
+    vertical-align: top;
+    padding: 0;
+}
+
+table.infotab tr td {
+    border: none;
+    vertical-align: top;
+    padding: 0 1em;
+    width: 100%;
+}
+
